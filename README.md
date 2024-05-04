@@ -28,7 +28,7 @@ git push -u origin main
 
 create a new repository on the command line
 ```
-echo "# df" >> README.md
+# echo "# df" >> README.md
 git init
 # git add README.md
 git add .
