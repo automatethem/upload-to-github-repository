@@ -26,5 +26,16 @@ git add .
 git commit -m "ddd"
 ```
 
+```
+create a new repository on the command line
+echo "# df" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/automatethem/df.git
+git push -u origin main
+```
+
 
 https://www.codeit.kr/community/questions/UXVlc3Rpb246NjA0ZWNlZjQwNzViMDkzZTc2NWFmYTM3
