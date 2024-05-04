@@ -2,3 +2,11 @@
 
 로컬을 위로
 https://youtu.be/Gbnjn-1Q2d8?t=1592
+
+![](attach_files/1.png?raw=true)
+
+![](attach_files/2.png?raw=true)
+
+![](attach_files/3.png?raw=true)
+
+![](attach_files/4.png?raw=true)
