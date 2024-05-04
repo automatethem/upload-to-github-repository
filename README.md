@@ -21,21 +21,20 @@ git push -u origin main
 ```
 
 ```
-
+git add .
+git commit -m "ddd"
+git push -u origin main
 ```
 
 ```
 create a new repository on the command line
 echo "# df" >> README.md
 git init
-git add README.md
+# git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/automatethem/df.git
-git push -u origin main
-
-git add .
-git commit -m "ddd"
+git remote add origin https://github.com/automatethem/test.git
 git push -u origin main
 ```
 
